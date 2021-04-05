@@ -16,11 +16,11 @@
 ## 传送门
 **正式博客**
 
-- [www.caositeofbilibili.cf/index.php](caositeofbilibili.cf/index.php)
+- [http://www.caositeofbilibili.cf/index.php](http://www.caositeofbilibili.cf/index.php)
 
 **初版博客（自己做的，贼烂）**
 
-- [www.caositeofbilibili.cf/cao/index.html](caositeofbilibili.cf/cao/index.html)
+- [http://www.caositeofbilibili.cf/cao/index.html](http://www.caositeofbilibili.cf/cao/index.html)
 
 
 ## 结束
